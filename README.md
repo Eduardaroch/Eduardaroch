@@ -1,9 +1,9 @@
--  Hi, I’m Maria Eduarda Petrovski Rocha
-- I’m interested in em procurar um emprego
+-  Oi, eu sou Maria Eduarda Petrovski Rocha
+- Estou interessada em procurar um emprego
 -  Atualmente estou estudando no ensino médio
--  I’m looking to collaborate on um projeto grande
+-  Estou  procurando colaborar em um projeto grande
 -  Para entrar em contato maria.petrovski.rocha@escola.pr.gov.br
--  Pronouns: ela/dela
+-  Pronomes: ela/dela
 -  Algumas características minhas são:
   trabalhar bem em grupo, ser proativa, fazer as coisas com agilidades.
 <!---
